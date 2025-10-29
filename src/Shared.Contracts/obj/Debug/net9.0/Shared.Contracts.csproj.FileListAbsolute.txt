@@ -1,0 +1,4 @@
+D:\Projetos de Cursos\Desafio Avanade .NET\EcommerceMicroservices\src\Shared.Contracts\obj\Debug\net9.0\Shared.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos de Cursos\Desafio Avanade .NET\EcommerceMicroservices\src\Shared.Contracts\obj\Debug\net9.0\Shared.Contracts.AssemblyInfoInputs.cache
+D:\Projetos de Cursos\Desafio Avanade .NET\EcommerceMicroservices\src\Shared.Contracts\obj\Debug\net9.0\Shared.Contracts.AssemblyInfo.cs
+D:\Projetos de Cursos\Desafio Avanade .NET\EcommerceMicroservices\src\Shared.Contracts\obj\Debug\net9.0\Shared.Contracts.csproj.CoreCompileInputs.cache
