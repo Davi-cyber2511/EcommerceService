@@ -1,6 +1,19 @@
 @Stock.Service_HostAddress = http://localhost:5078
 
-GET {{Stock.Service_HostAddress}}/weatherforecast/
+POST {{Stock.Service_HostAddress}}/produtos/estoque-pedido-criado-queue
 Accept: application/json
-
+Content-Type: application/json
+{
+  "nome": "celular Teste 3",
+  "descricao": "Teste 2",
+  "preco": 1350,
+  "quantidade": 20
+}
 ###
+
+GET {{Stock.Service_HostAddress}}/produtos/
+###
+
+GET {{Stock.Service_HostAddress}}/produtos/833a8e9d-b581-481d-8e8d-f92b8d2c1fa0
+###
+

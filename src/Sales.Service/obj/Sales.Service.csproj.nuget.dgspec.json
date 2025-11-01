@@ -1,33 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos de Cursos\\Desafio Avanade .NET\\EcommerceMicroservices\\src\\Sales.Service\\Sales.Service.csproj": {}
+    "C:\\Users\\bomit\\Source\\Repos\\EcommerceService\\src\\Sales.Service\\Sales.Service.csproj": {}
   },
   "projects": {
-    "D:\\Projetos de Cursos\\Desafio Avanade .NET\\EcommerceMicroservices\\src\\Sales.Service\\Sales.Service.csproj": {
+    "C:\\Users\\bomit\\Source\\Repos\\EcommerceService\\src\\Sales.Service\\Sales.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos de Cursos\\Desafio Avanade .NET\\EcommerceMicroservices\\src\\Sales.Service\\Sales.Service.csproj",
+        "projectUniqueName": "C:\\Users\\bomit\\Source\\Repos\\EcommerceService\\src\\Sales.Service\\Sales.Service.csproj",
         "projectName": "Sales.Service",
-        "projectPath": "D:\\Projetos de Cursos\\Desafio Avanade .NET\\EcommerceMicroservices\\src\\Sales.Service\\Sales.Service.csproj",
-        "packagesPath": "C:\\Users\\Davi Messias TI\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos de Cursos\\Desafio Avanade .NET\\EcommerceMicroservices\\src\\Sales.Service\\obj\\",
+        "projectPath": "C:\\Users\\bomit\\Source\\Repos\\EcommerceService\\src\\Sales.Service\\Sales.Service.csproj",
+        "packagesPath": "C:\\n",
+        "outputPath": "C:\\Users\\bomit\\Source\\Repos\\EcommerceService\\src\\Sales.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Davi Messias TI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\bomit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Projetos de Cursos\\Desafio Avanade .NET\\EcommerceMicroservices\\src\\Shared.Contracts\\Shared.Contracts.csproj": {
-                "projectPath": "D:\\Projetos de Cursos\\Desafio Avanade .NET\\EcommerceMicroservices\\src\\Shared.Contracts\\Shared.Contracts.csproj"
+              "C:\\Users\\bomit\\Source\\Repos\\EcommerceService\\src\\Shared.Contracts\\Shared.Contracts.csproj": {
+                "projectPath": "C:\\Users\\bomit\\Source\\Repos\\EcommerceService\\src\\Shared.Contracts\\Shared.Contracts.csproj"
               }
             }
           }
@@ -98,26 +105,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projetos de Cursos\\Desafio Avanade .NET\\EcommerceMicroservices\\src\\Shared.Contracts\\Shared.Contracts.csproj": {
+    "C:\\Users\\bomit\\Source\\Repos\\EcommerceService\\src\\Shared.Contracts\\Shared.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos de Cursos\\Desafio Avanade .NET\\EcommerceMicroservices\\src\\Shared.Contracts\\Shared.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\bomit\\Source\\Repos\\EcommerceService\\src\\Shared.Contracts\\Shared.Contracts.csproj",
         "projectName": "Shared.Contracts",
-        "projectPath": "D:\\Projetos de Cursos\\Desafio Avanade .NET\\EcommerceMicroservices\\src\\Shared.Contracts\\Shared.Contracts.csproj",
-        "packagesPath": "C:\\Users\\Davi Messias TI\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos de Cursos\\Desafio Avanade .NET\\EcommerceMicroservices\\src\\Shared.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\bomit\\Source\\Repos\\EcommerceService\\src\\Shared.Contracts\\Shared.Contracts.csproj",
+        "packagesPath": "C:\\n",
+        "outputPath": "C:\\Users\\bomit\\Source\\Repos\\EcommerceService\\src\\Shared.Contracts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Davi Messias TI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\bomit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -157,7 +171,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,6 +1,26 @@
 @Sales.Service_HostAddress = http://localhost:5051
 
-GET {{Sales.Service_HostAddress}}/weatherforecast/
+POST {{Sales.Service_HostAddress}}/pedidos/estoque-pedido-criado-queue
 Accept: application/json
-
+Content-Type: application/json
+{
+  "usuarioId": "4bc58a6f-3b4f-4c66-9b74-bda370929358",
+  "itens": [
+    {
+      "produtoId": "d866f480-4e78-433e-9bcb-2467deee13ac",
+      "precoUnitario": 100,
+      "quantidade": 10
+    },
+    {
+      "produtoId": "d8ff0ce2-1d8b-4676-b837-9611e15cb650",
+      "precoUnitario": 120,
+      "quantidade": 50
+    },
+    {
+      "produtoId": "83b141bb-1035-42e3-bade-8bca85887934",
+      "precoUnitario": 200,
+      "quantidade": 50
+    }
+  ]
+}
 ###

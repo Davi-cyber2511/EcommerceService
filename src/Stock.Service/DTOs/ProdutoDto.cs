@@ -1,12 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace Stock.Service.DTOs
+namespace Stock.Service.DTOs;
+public class ProdutoDto
 {
-    public class ProdutoDto
-    {
-        
-    }
+    
 }
